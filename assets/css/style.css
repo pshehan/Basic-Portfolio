@@ -158,6 +158,7 @@ h6 {
 h2, hr {
 	margin: 20px;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-size: 20px;
 
 }
 
@@ -196,7 +197,7 @@ footer {
 
 #princeton-text {
     position: absolute;
-    bottom: 264px;
+    bottom: 333px;
     left: 286px;
     padding: 0 75px 0 75px;
     background-color: #4AAAA5;
@@ -208,7 +209,7 @@ footer {
 
 #evans-text {
 	position: absolute;
-    bottom: 77px;
+    bottom: 144px;
     left: 286px;
     padding: 0 75px 0 75px;
     background-color: #4AAAA5;
@@ -220,7 +221,7 @@ footer {
 
 #long-text {
 	position: absolute;
-    bottom: 264px;
+    bottom: 333px;
     left: 601px;
     padding: 0px 75px 0px 75px;
     background-color: #4AAAA5;
@@ -230,7 +231,7 @@ footer {
 }
 #gray-text {
     position: absolute;
-    bottom: 77px;
+    bottom: 144px;
     left: 601px;
     padding: 0 75px 0 75px;
     background-color: #4AAAA5;
@@ -242,4 +243,12 @@ footer {
 	position: relative;
     font-family: Arial;
 
+}
+
+#forming {
+	 border-radius: 5px;
+    background-color: #f2f2f2;
+	padding: 20px;
+	border-color: #777777;
+	margin: 20px;
 }
